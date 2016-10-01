@@ -1,0 +1,49 @@
+Date:7/15-16/2016
+<!doctypehtml>
+<html>
+<body>
+<table width="100%">
+<tr>
+<td>
+<a href="https://edpuzzle.com" target="blank" title="Edpuzle">
+<img src="http://img.scoop.it/xLivnK5xQB2dJoFoySxQ6jl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9" alt="edmodopicture"
+height="100" width="100">
+</a>
+<td>
+<a href="https://kahoot.it/#/" target="blank" title="Kahoot!"><img src="http://barronbearstechnology.pbworks.com/f/1423165320/Kahoot%20logo6.gif" alt="kahoot"width="100"height="100"></a>
+<td>
+<a href="https://quizlet.com/login" target="blank"><img src="http://www.wcpss.net/cms/lib/NC01911451/Centricity/Domain/2373/quizlet.gif" alt="quizlet.jpg" height="100" width="100" ></a>
+</tr>
+</table>
+<br>
+<br>
+<table width="100%">
+<tr>
+<td>
+<table>
+<caption><img src="http://garden.socrative.com/wp-content/uploads/2014/06/logo_new.png" alt="socrative.png" width="175px" height="100px"></caption>
+<tr>
+<td>
+<a href="https://b.socrative.com/student/#wait" target="blank"><img src="http://www.sportsclipart.com/sports_clipart/number_1_pool_ball_solid_color_yellow_0515-0907-1212-5301_SMU.jpg" alt="billiard1" width="50" height="50"></a>
+<td>
+<a href="https://b.socrative.com/student/#wait" target="blank"><img src="http://images.clipartpanda.com/number-2-clipart-solid_blue_number_2_pool_ball_0515-0907-1212-5413_SMU.jpg" alt="billiard2" width="50" height="50"></a>
+<td>
+<a href="https://b.socrative.com/student/#wait" target="blank"><img src="http://www.sportsclipart.com/sports_clipart/pool_ball__solid_number_3_0515-0907-1212-5522_SMU.jpg" alt="billiard3" width="50" height="50"></a>
+</tr>
+<tr>
+<td>
+<a href="https://b.socrative.com/student/#wait" target="blank"><img src="http://www.sportsclipart.com/sports_clipart/solid_orange_5_pool_ball_0515-0907-1212-5646_SMU.jpg" alt="billiard5" width="50" height="50"></a>
+<td>
+<a href="https://b.socrative.com/student/#wait" target="blank"><img src="http://www.sportsclipart.com/sports_clipart/6_ball_solid_color_pool_ball_or_billiard_ball_0515-0907-1214-4208_SMU.jpg" alt="billiard6" width="50" height="50"></a>
+<td>
+<a href="https://b.socrative.com/student/#wait" target="blank"><img src="http://www.sportsclipart.com/sports_clipart/solid_color_pool_ball__the_7_ball_0515-0907-1214-4319_SMU.jpg" alt="billiard7" width="50" height="50"></a>
+</table>
+<td>
+<a href="https://www.thatquiz.org/" target="blank"><img src="http://video.eba.gov.tr/928/059/595/a9c/a80/384/fa1/a25/0d9/5b5/e5e/dd1/62f/92e/001/928059595a9ca80384fa1a250d95b5e5edd162f92e001.png" alt="fishee" width="100" height="100"></a>
+<td>
+<a href="http://quizizz.com/join/" target="blank"><img src="https://bmhsscience.files.wordpress.com/2016/01/quizizz-2e487rh.jpg" alt="Quizizz.jpg" width="100" height="100"></a>
+</tr>
+</table>
+</body>
+</html>
+Date:
